@@ -6,8 +6,8 @@ try:
 except:
     print("Please make sure Pynput is correctly installed on your system from https://github.com/moses-palmer/pynput")
 
-print("WARNING: All your keyboard entries are currently being recorded and saved locally in keylog.txt\nYes, that includes every letter, number and anything else you click on your keyboard.\nPlease enter passwords and other sensitive information with care.")
-print("\nYou can enter Ghost Mode and log the keyboard entries by renaming this file to keylogger.pyw, but then the only way to stop logging is to force stope python.exe in Task Manager.")
+print("WARNING: All your keyboard entries are currently being recorded and saved locally in keylog.txt\nYes, that includes every letter, number and anything else you type on your keyboard.\nPlease enter passwords and other sensitive information with care.")
+print("\nYou can enter Ghost Mode and log the keyboard entries by renaming this file to keylogger.pyw, but then the only way to stop logging is to force stop python.exe in Task Manager.")
 print("\nTo stop logging, close this window and force stop python.exe in Task Manager.")
 print("\nDISCLAIMER: This is for personal, ethical use only. I will not be responsible for any misuse of this software in any way to cause any sort of damage or harm to any individual(s) or organization(s). Only you are to blame for what you do with it!")
 
